@@ -29,7 +29,7 @@ It listens to user input, processes it using AI, and responds in real-time.
 ---
 
 ## 📸 Screenshots
-(Upload screenshots next step)
+![Vapi Dashboard](vapi-dashboard.png)
 
 ---
 
